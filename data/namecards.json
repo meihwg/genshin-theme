@@ -1,0 +1,970 @@
+[
+  {
+    "name": "Genshin Impact: A New World",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/89/Item_Genshin_Impact_A_New_World.png/revision/latest/scale-to-width-down/130?cb=20201118061404"
+  },
+  {
+    "name": "Achievement: Adeptal Valley",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e7/Item_Achievement_Adeptal_Valley.png/revision/latest/scale-to-width-down/130?cb=20240131015915"
+  },
+  {
+    "name": "Achievement: All-Seeing",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e6/Item_Achievement_All-Seeing.png/revision/latest/scale-to-width-down/130?cb=20250102015227"
+  },
+  {
+    "name": "Achievement: Blaze",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Item_Achievement_Blaze.png/revision/latest/scale-to-width-down/130?cb=20250102023430"
+  },
+  {
+    "name": "Achievement: Bowmaster",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d2/Item_Achievement_Bowmaster.png/revision/latest/scale-to-width-down/130?cb=20201118062159"
+  },
+  {
+    "name": "Achievement: Challenger III",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Item_Achievement_Challenger_III.png/revision/latest/scale-to-width-down/130?cb=20201223232613"
+  },
+  {
+    "name": "Achievement: Challenger II",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/fa/Item_Achievement_Challenger_II.png/revision/latest/scale-to-width-down/130?cb=20201208040742"
+  },
+  {
+    "name": "Achievement: Challenger",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Achievement_Challenger.png/revision/latest/scale-to-width-down/130?cb=20201118061726"
+  },
+  {
+    "name": "Achievement: Chasm",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1d/Item_Achievement_Chasm.png/revision/latest/scale-to-width-down/130?cb=20220331092325"
+  },
+  {
+    "name": "Achievement: Cliffhanger",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Item_Achievement_Cliffhanger.png/revision/latest/scale-to-width-down/130?cb=20201118070736"
+  },
+  {
+    "name": "Achievement: Colors of the Rainbow",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Item_Achievement_Colors_of_the_Rainbow.png/revision/latest/scale-to-width-down/130?cb=20201118070407"
+  },
+  {
+    "name": "Achievement: Deep & Dark",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f7/Item_Achievement_Deep_%26_Dark.png/revision/latest/scale-to-width-down/130?cb=20201118070440"
+  },
+  {
+    "name": "Achievement: Endpoint",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Achievement_Endpoint.png/revision/latest/scale-to-width-down/130?cb=20240829153815"
+  },
+  {
+    "name": "Achievement: Explorer",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8c/Item_Achievement_Explorer.png/revision/latest/scale-to-width-down/130?cb=20201118061751"
+  },
+  {
+    "name": "Achievement: Fated Encounter",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/3e/Item_Achievement_Fated_Encounter.png/revision/latest/scale-to-width-down/130?cb=20220826144415"
+  },
+  {
+    "name": "Achievement: Feline Fortune",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Item_Achievement_Feline_Fortune.png/revision/latest/scale-to-width-down/130?cb=20240829154140"
+  },
+  {
+    "name": "Achievement: Fighting Spirit",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/3f/Item_Achievement_Fighting_Spirit.png/revision/latest/scale-to-width-down/130?cb=20241129014712"
+  },
+  {
+    "name": "Achievement: Full Bloom",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Item_Achievement_Full_Bloom.png/revision/latest/scale-to-width-down/130?cb=20210725071311"
+  },
+  {
+    "name": "Achievement: Gate",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/10/Item_Achievement_Gate.png/revision/latest/scale-to-width-down/130?cb=20210725071312"
+  },
+  {
+    "name": "Achievement: Hero",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c5/Item_Achievement_Hero.png/revision/latest/scale-to-width-down/130?cb=20201118070300"
+  },
+  {
+    "name": "Achievement: Hill Dwellers",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/85/Item_Achievement_Hill_Dwellers.png/revision/latest/scale-to-width-down/130?cb=20201118070510"
+  },
+  {
+    "name": "Achievement: Infinitum",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/20/Item_Achievement_Infinitum.png/revision/latest/scale-to-width-down/130?cb=20230412034637"
+  },
+  {
+    "name": "Achievement: Invoker",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Item_Achievement_Invoker.png/revision/latest/scale-to-width-down/130?cb=20221207034017"
+  },
+  {
+    "name": "Achievement: Lord of the Night",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Item_Achievement_Lord_of_the_Night.png/revision/latest/scale-to-width-down/130?cb=20240829153228"
+  },
+  {
+    "name": "Achievement: Mariner",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1b/Item_Achievement_Mariner.png/revision/latest/scale-to-width-down/130?cb=20230816192747"
+  },
+  {
+    "name": "Achievement: Mirrored Dreams",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Item_Achievement_Mirrored_Dreams.png/revision/latest/scale-to-width-down/130?cb=20221003061241"
+  },
+  {
+    "name": "Achievement: Nails",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Item_Achievement_Nails.png/revision/latest/scale-to-width-down/130?cb=20210901111426"
+  },
+  {
+    "name": "Achievement: Orbits",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/af/Item_Achievement_Orbits.png/revision/latest/scale-to-width-down/130?cb=20230816192134"
+  },
+  {
+    "name": "Achievement: Perpetual",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/61/Item_Achievement_Perpetual.png/revision/latest/scale-to-width-down/130?cb=20230928174518"
+  },
+  {
+    "name": "Achievement: Poetic Pages",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/5e/Item_Achievement_Poetic_Pages.png/revision/latest/scale-to-width-down/130?cb=20240605020709"
+  },
+  {
+    "name": "Achievement: Repertoire",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Item_Achievement_Repertoire.png/revision/latest/scale-to-width-down/130?cb=20250102023428"
+  },
+  {
+    "name": "Achievement: Reunion",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/44/Item_Achievement_Reunion.png/revision/latest/scale-to-width-down/130?cb=20201118062242"
+  },
+  {
+    "name": "Achievement: Roaming",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/de/Item_Achievement_Roaming.png/revision/latest/scale-to-width-down/130?cb=20220826144901"
+  },
+  {
+    "name": "Achievement: Seven Lights",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/12/Item_Achievement_Seven_Lights.png/revision/latest/scale-to-width-down/130?cb=20221003061343"
+  },
+  {
+    "name": "Achievement: Snowy Land",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c6/Item_Achievement_Snowy_Land.png/revision/latest/scale-to-width-down/130?cb=20201118070709"
+  },
+  {
+    "name": "Achievement: Snowy Summit",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/2d/Item_Achievement_Snowy_Summit.png/revision/latest/scale-to-width-down/130?cb=20201223232612"
+  },
+  {
+    "name": "Achievement: Stone Dragon",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/be/Item_Achievement_Stone_Dragon.png/revision/latest/scale-to-width-down/130?cb=20210721212913"
+  },
+  {
+    "name": "Achievement: Tea Time",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Item_Achievement_Tea_Time.png/revision/latest/scale-to-width-down/130?cb=20210504213747"
+  },
+  {
+    "name": "Achievement: Thunderclap",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/05/Item_Achievement_Thunderclap.png/revision/latest/scale-to-width-down/130?cb=20220331092328"
+  },
+  {
+    "name": "Achievement: Tranquil Peace",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/ac/Item_Achievement_Tranquil_Peace.png/revision/latest/scale-to-width-down/130?cb=20250328223553"
+  },
+  {
+    "name": "Achievement: Transient Twilight",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/85/Item_Achievement_Transient_Twilight.png/revision/latest/scale-to-width-down/130?cb=20230412035643"
+  },
+  {
+    "name": "Achievement: Traversal",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/fd/Item_Achievement_Traversal.png/revision/latest/scale-to-width-down/130?cb=20210721183440"
+  },
+  {
+    "name": "Achievement: Vacation Home",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Item_Achievement_Vacation_Home.png/revision/latest/scale-to-width-down/130?cb=20210610195725"
+  },
+  {
+    "name": "Achievement: Virtuoso",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9d/Item_Achievement_Virtuoso.png/revision/latest/scale-to-width-down/130?cb=20201118070228"
+  },
+  {
+    "name": "Achievement: Whalewrangler",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/20/Item_Achievement_Whalewrangler.png/revision/latest/scale-to-width-down/130?cb=20240424063316"
+  },
+  {
+    "name": "Fontaine: Attunement",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/3f/Item_Fontaine_Attunement.png/revision/latest/scale-to-width-down/130?cb=20240424020003"
+  },
+  {
+    "name": "Fontaine: Completeness",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Item_Fontaine_Completeness.png/revision/latest/scale-to-width-down/130?cb=20231111050507"
+  },
+  {
+    "name": "Fontaine: Judgment",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9d/Item_Fontaine_Judgment.png/revision/latest/scale-to-width-down/130?cb=20230816192106"
+  },
+  {
+    "name": "Fontaine: Redemption",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/18/Item_Fontaine_Redemption.png/revision/latest/scale-to-width-down/130?cb=20230927214018"
+  },
+  {
+    "name": "Inazuma: Eagleplume",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Item_Inazuma_Eagleplume.png/revision/latest/scale-to-width-down/130?cb=20211013104136"
+  },
+  {
+    "name": "Inazuma: Kujou Insignia",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Item_Inazuma_Kujou_Insignia.png/revision/latest/scale-to-width-down/130?cb=20210722205332"
+  },
+  {
+    "name": "Inazuma: Sangonomiya Crest",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Item_Inazuma_Sangonomiya_Crest.png/revision/latest/scale-to-width-down/130?cb=20210901111432"
+  },
+  {
+    "name": "Inazuma: Tokoyo",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e7/Item_Inazuma_Tokoyo.png/revision/latest/scale-to-width-down/130?cb=20220105061633"
+  },
+  {
+    "name": "Liyue: Stillness of Stone",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Item_Liyue_Stillness_of_Stone.png/revision/latest/scale-to-width-down/130?cb=20201118070338"
+  },
+  {
+    "name": "Mondstadt: Whistling Wind",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9d/Item_Mondstadt_Whistling_Wind.png/revision/latest/scale-to-width-down/130?cb=20201118062058"
+  },
+  {
+    "name": "Natlan: Draconic Gaze",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Item_Natlan_Draconic_Gaze.png/revision/latest/scale-to-width-down/130?cb=20250328223527"
+  },
+  {
+    "name": "Natlan: Fleeting Dreams",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d7/Item_Natlan_Fleeting_Dreams.png/revision/latest/scale-to-width-down/130?cb=20241122065749"
+  },
+  {
+    "name": "Natlan: Return of the Flame",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/85/Item_Natlan_Return_of_the_Flame.png/revision/latest/scale-to-width-down/130?cb=20240828120805"
+  },
+  {
+    "name": "Sumeru: Sandstorm",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Item_Sumeru_Sandstorm.png/revision/latest/scale-to-width-down/130?cb=20230118035055"
+  },
+  {
+    "name": "Sumeru: Sandtreader",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/ae/Item_Sumeru_Sandtreader.png/revision/latest/scale-to-width-down/130?cb=20221003061442"
+  },
+  {
+    "name": "Sumeru: Shimmering Woods",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/70/Item_Sumeru_Shimmering_Woods.png/revision/latest/scale-to-width-down/130?cb=20220826145158"
+  },
+  {
+    "name": "Travel Notes: Catch the Wind",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/ae/Item_Travel_Notes_Catch_the_Wind.png/revision/latest/scale-to-width-down/130?cb=20201118063556"
+  },
+  {
+    "name": "Travel Notes: Fading Star",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f6/Item_Travel_Notes_Fading_Star.png/revision/latest/scale-to-width-down/130?cb=20201208040743"
+  },
+  {
+    "name": "Travel Notes: Chalk",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Item_Travel_Notes_Chalk.png/revision/latest/scale-to-width-down/130?cb=20201223233112"
+  },
+  {
+    "name": "Travel Notes: Mingxiao",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/11/Item_Travel_Notes_Mingxiao.png/revision/latest/scale-to-width-down/130?cb=20210207221511"
+  },
+  {
+    "name": "Travel Notes: Windblume",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/ca/Item_Travel_Notes_Windblume.png/revision/latest/scale-to-width-down/130?cb=20210317154040"
+  },
+  {
+    "name": "Travel Notes: Sub-Space Recreation",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0c/Item_Travel_Notes_Sub-Space_Recreation.png/revision/latest/scale-to-width-down/130?cb=20210428164901"
+  },
+  {
+    "name": "Travel Notes: Midsummer",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/56/Item_Travel_Notes_Midsummer.png/revision/latest/scale-to-width-down/130?cb=20210610195728"
+  },
+  {
+    "name": "Travel Notes: Grand Narukami Shrine",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/5b/Item_Travel_Notes_Grand_Narukami_Shrine.png/revision/latest/scale-to-width-down/130?cb=20210725071317"
+  },
+  {
+    "name": "Travel Notes: Moonchaser",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6c/Item_Travel_Notes_Moonchaser.png/revision/latest/scale-to-width-down/130?cb=20210901111422"
+  },
+  {
+    "name": "Travel Notes: Heavenly General",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Item_Travel_Notes_Heavenly_General.png/revision/latest/scale-to-width-down/130?cb=20211013103037"
+  },
+  {
+    "name": "Travel Notes: Lyratum",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/94/Item_Travel_Notes_Lyratum.png/revision/latest/scale-to-width-down/130?cb=20211124050340"
+  },
+  {
+    "name": "Travel Notes: Flowing Hues",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b1/Item_Travel_Notes_Flowing_Hues.png/revision/latest/scale-to-width-down/130?cb=20220105061637"
+  },
+  {
+    "name": "Travel Notes: Awakening",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Item_Travel_Notes_Awakening.png/revision/latest/scale-to-width-down/130?cb=20220219155541"
+  },
+  {
+    "name": "Travel Notes: Irodori",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/be/Item_Travel_Notes_Irodori.png/revision/latest/scale-to-width-down/130?cb=20220330033754"
+  },
+  {
+    "name": "Travel Notes: Divine Will",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6b/Item_Travel_Notes_Divine_Will.png/revision/latest/scale-to-width-down/130?cb=20220602040658"
+  },
+  {
+    "name": "Travel Notes: Azure Main",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Item_Travel_Notes_Azure_Main.png/revision/latest/scale-to-width-down/130?cb=20220713054101"
+  },
+  {
+    "name": "Travel Notes: Woodlands",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/25/Item_Travel_Notes_Woodlands.png/revision/latest/scale-to-width-down/130?cb=20220826151213"
+  },
+  {
+    "name": "Travel Notes: Returning Winds",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/5c/Item_Travel_Notes_Returning_Winds.png/revision/latest/scale-to-width-down/130?cb=20220928034729"
+  },
+  {
+    "name": "Travel Notes: Fungus Land",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Item_Travel_Notes_Fungus_Land.png/revision/latest/scale-to-width-down/130?cb=20221102041215"
+  },
+  {
+    "name": "Travel Notes: Stellar Rivers",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Item_Travel_Notes_Stellar_Rivers.png/revision/latest/scale-to-width-down/130?cb=20221207033941"
+  },
+  {
+    "name": "Travel Notes: Rhythm and Rhyme",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/3a/Item_Travel_Notes_Rhythm_and_Rhyme.png/revision/latest/scale-to-width-down/130?cb=20230118035057"
+  },
+  {
+    "name": "Travel Notes: Artful Intent",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/49/Item_Travel_Notes_Artful_Intent.png/revision/latest/scale-to-width-down/130?cb=20230301050409"
+  },
+  {
+    "name": "Travel Notes: Crown of Glory",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/43/Item_Travel_Notes_Crown_of_Glory.png/revision/latest/scale-to-width-down/130?cb=20230412042039"
+  },
+  {
+    "name": "Travel Notes: Secrets",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Item_Travel_Notes_Secrets.png/revision/latest/scale-to-width-down/130?cb=20230524071635"
+  },
+  {
+    "name": "Travel Notes: Vivid Illumination",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e3/Item_Travel_Notes_Vivid_Illumination.png/revision/latest/scale-to-width-down/130?cb=20230713115508"
+  },
+  {
+    "name": "Travel Notes: Primordial Waters",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/dc/Item_Travel_Notes_Primordial_Waters.png/revision/latest/scale-to-width-down/130?cb=20230816194254"
+  },
+  {
+    "name": "Travel Notes: Falling Star",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Travel_Notes_Falling_Star.png/revision/latest/scale-to-width-down/130?cb=20230929032847"
+  },
+  {
+    "name": "Travel Notes: Whirling Waltz",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6b/Item_Travel_Notes_Whirling_Waltz.png/revision/latest/scale-to-width-down/130?cb=20231119213623"
+  },
+  {
+    "name": "Travel Notes: Time Inscribed",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e3/Item_Travel_Notes_Time_Inscribed.png/revision/latest/scale-to-width-down/130?cb=20231220020317"
+  },
+  {
+    "name": "Travel Notes: Vibrant Harriers",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/21/Item_Travel_Notes_Vibrant_Harriers.png/revision/latest/scale-to-width-down/130?cb=20240131015922"
+  },
+  {
+    "name": "Travel Notes: Arcane Amassing",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9d/Item_Travel_Notes_Arcane_Amassing.png/revision/latest/scale-to-width-down/130?cb=20240313014734"
+  },
+  {
+    "name": "Travel Notes: The Realms Rocked",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1a/Item_Travel_Notes_The_Realms_Rocked.png/revision/latest/scale-to-width-down/130?cb=20240424020006"
+  },
+  {
+    "name": "Travel Notes: Simulnation",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/05/Item_Travel_Notes_Simulnation.png/revision/latest/scale-to-width-down/130?cb=20240605020714"
+  },
+  {
+    "name": "Travel Notes: Fanciful Fabrication",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Item_Travel_Notes_Fanciful_Fabrication.png/revision/latest/scale-to-width-down/130?cb=20240722144352"
+  },
+  {
+    "name": "Travel Notes: Primal Fire",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/66/Item_Travel_Notes_Primal_Fire.png/revision/latest/scale-to-width-down/130?cb=20240829155251"
+  },
+  {
+    "name": "Travel Notes: Sabzeruz",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/30/Item_Travel_Notes_Sabzeruz.png/revision/latest/scale-to-width-down/130?cb=20241012161830"
+  },
+  {
+    "name": "Travel Notes: Spiritweaver",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/49/Item_Travel_Notes_Spiritweaver.png/revision/latest/scale-to-width-down/130?cb=20241129011610"
+  },
+  {
+    "name": "Travel Notes: The Flame Renewed",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bb/Item_Travel_Notes_The_Flame_Renewed.png/revision/latest/scale-to-width-down/130?cb=20250102015612"
+  },
+  {
+    "name": "Travel Notes: Wondrous Reverie",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1a/Item_Travel_Notes_Wondrous_Reverie.png/revision/latest/scale-to-width-down/130?cb=20250221182739"
+  },
+  {
+    "name": "Travel Notes: Blooming Glory",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/af/Item_Travel_Notes_Blooming_Glory.png/revision/latest/scale-to-width-down/130?cb=20250329133417"
+  },
+  {
+    "name": "Travel Notes: Balletica",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/5a/Item_Travel_Notes_Balletica.png/revision/latest/scale-to-width-down/130?cb=20250510135751"
+  },
+  {
+    "name": "Travel Notes: Speculation",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/5c/Item_Travel_Notes_Speculation.png/revision/latest/scale-to-width-down/130?cb=20250618130237"
+  },
+  {
+    "name": "Mondstadt: Hero's Fame",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/54/Item_Mondstadt_Hero%27s_Fame.png/revision/latest/scale-to-width-down/130?cb=20201208040743"
+  },
+  {
+    "name": "Mondstadt: Blessing",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Item_Mondstadt_Blessing.png/revision/latest/scale-to-width-down/130?cb=20201208040743"
+  },
+  {
+    "name": "Liyue: A Thousand Ships",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/49/Item_Liyue_A_Thousand_Ships.png/revision/latest/scale-to-width-down/130?cb=20201208040742"
+  },
+  {
+    "name": "Liyue: In the Clouds",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Item_Liyue_In_the_Clouds.png/revision/latest/scale-to-width-down/130?cb=20201208040743"
+  },
+  {
+    "name": "Inazuma: Raiden Emblem",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1b/Item_Inazuma_Raiden_Emblem.png/revision/latest/scale-to-width-down/130?cb=20210723024704"
+  },
+  {
+    "name": "Inazuma: Kamisato Crest",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Item_Inazuma_Kamisato_Crest.png/revision/latest/scale-to-width-down/130?cb=20210723024703"
+  },
+  {
+    "name": "Sumeru: Observance",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/64/Item_Sumeru_Observance.png/revision/latest/scale-to-width-down/130?cb=20220826145232"
+  },
+  {
+    "name": "Sumeru: Unsullied",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d8/Item_Sumeru_Unsullied.png/revision/latest/scale-to-width-down/130?cb=20220826004601"
+  },
+  {
+    "name": "Fontaine: Wondrous Machine",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/31/Item_Fontaine_Wondrous_Machine.png/revision/latest/scale-to-width-down/130?cb=20230816193444"
+  },
+  {
+    "name": "Fontaine: Big News",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c8/Item_Fontaine_Big_News.png/revision/latest/scale-to-width-down/130?cb=20230816193909"
+  },
+  {
+    "name": "Natlan: Divine Army",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/39/Item_Natlan_Divine_Army.png/revision/latest/scale-to-width-down/130?cb=20240901110529"
+  },
+  {
+    "name": "Natlan: Fiery Dragon",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cd/Item_Natlan_Fiery_Dragon.png/revision/latest/scale-to-width-down/130?cb=20240901110719"
+  },
+  {
+    "name": "Frostbearing: Ancient Tree",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/da/Item_Frostbearing_Ancient_Tree.png/revision/latest/scale-to-width-down/130?cb=20201220222526"
+  },
+  {
+    "name": "Inazuma: Sacred Sakura",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cd/Item_Inazuma_Sacred_Sakura.png/revision/latest/scale-to-width-down/130?cb=20220602045132"
+  },
+  {
+    "name": "Lumens: Stone of Light",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8f/Item_Lumens_Stone_of_Light.png/revision/latest/scale-to-width-down/130?cb=20220330043446"
+  },
+  {
+    "name": "Sumeru: The Great Dream",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/3c/Item_Sumeru_The_Great_Dream.png/revision/latest/scale-to-width-down/130?cb=20230412093108"
+  },
+  {
+    "name": "Sumeru: Amrita",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Item_Sumeru_Amrita.png/revision/latest/scale-to-width-down/130?cb=20230413001343"
+  },
+  {
+    "name": "Chenyu: Rainjade Rite",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/5c/Item_Chenyu_Rainjade_Rite.png/revision/latest/scale-to-width-down/130?cb=20240131015919"
+  },
+  {
+    "name": "Fontaine: Lucine",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Item_Fontaine_Lucine.png/revision/latest/scale-to-width-down/130?cb=20240424020005"
+  },
+  {
+    "name": "Albedo: Sun Blossom",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Albedo_Sun_Blossom.png/revision/latest/scale-to-width-down/130?cb=20201223232307"
+  },
+  {
+    "name": "Alhaitham: Enlightenment",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Item_Alhaitham_Enlightenment.png/revision/latest/scale-to-width-down/130?cb=20230118034746"
+  },
+  {
+    "name": "Aloy: Dawn",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/62/Item_Aloy_Dawn.png/revision/latest/scale-to-width-down/130?cb=20210901111430"
+  },
+  {
+    "name": "Amber: Bunny",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9d/Item_Amber_Bunny.png/revision/latest/scale-to-width-down/130?cb=20201118063322"
+  },
+  {
+    "name": "Arlecchino: Edict",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Item_Arlecchino_Edict.png/revision/latest/scale-to-width-down/130?cb=20240424020010"
+  },
+  {
+    "name": "Baizhu: Relief",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8c/Item_Baizhu_Relief.png/revision/latest/scale-to-width-down/130?cb=20230412092724"
+  },
+  {
+    "name": "Barbara: Flow",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Item_Barbara_Flow.png/revision/latest/scale-to-width-down/130?cb=20201118065545"
+  },
+  {
+    "name": "Beidou: Weighing Anchor",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Item_Beidou_Weighing_Anchor.png/revision/latest/scale-to-width-down/130?cb=20201118070835"
+  },
+  {
+    "name": "Bennett: Recognition",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/24/Item_Bennett_Recognition.png/revision/latest/scale-to-width-down/130?cb=20201118065944"
+  },
+  {
+    "name": "Candace: Gray Heron",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f0/Item_Candace_Gray_Heron.png/revision/latest/scale-to-width-down/130?cb=20220928034731"
+  },
+  {
+    "name": "Charlotte: Exclusive",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6b/Item_Charlotte_Exclusive.png/revision/latest/scale-to-width-down/130?cb=20231108032000"
+  },
+  {
+    "name": "Chasca: Fully Loaded",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/65/Item_Chasca_Fully_Loaded.png/revision/latest/scale-to-width-down/130?cb=20241120031108"
+  },
+  {
+    "name": "Chevreuse: Type II",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/35/Item_Chevreuse_Type_II.png/revision/latest/scale-to-width-down/130?cb=20231220020214"
+  },
+  {
+    "name": "Childe: Foul Legacy",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/50/Item_Childe_Foul_Legacy.png/revision/latest/scale-to-width-down/130?cb=20201208040743"
+  },
+  {
+    "name": "Chiori: Spectacular Sleeves",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Item_Chiori_Spectacular_Sleeves.png/revision/latest/scale-to-width-down/130?cb=20240313014732"
+  },
+  {
+    "name": "Chongyun: Spirit Blade",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Item_Chongyun_Spirit_Blade.png/revision/latest/scale-to-width-down/130?cb=20201118070905"
+  },
+  {
+    "name": "Citlali: Opalstar",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4d/Item_Citlali_Opalstar.png/revision/latest/scale-to-width-down/130?cb=20250101131314"
+  },
+  {
+    "name": "Clorinde: Roleplay",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Item_Clorinde_Roleplay.png/revision/latest/scale-to-width-down/130?cb=20240605020711"
+  },
+  {
+    "name": "Collei: Good Virtue",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Item_Collei_Good_Virtue.png/revision/latest/scale-to-width-down/130?cb=20220824153548"
+  },
+  {
+    "name": "Cyno: Silence",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/39/Item_Cyno_Silence.png/revision/latest/scale-to-width-down/130?cb=20220928034733"
+  },
+  {
+    "name": "Dahlia: Sacred Duty",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/49/Item_Dahlia_Sacred_Duty.png/revision/latest/scale-to-width-down/130?cb=20250618025728"
+  },
+  {
+    "name": "Dehya: Purifying Flame",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Item_Dehya_Purifying_Flame.png/revision/latest/scale-to-width-down/130?cb=20230301050411"
+  },
+  {
+    "name": "Diluc: Flames",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c7/Item_Diluc_Flames.png/revision/latest/scale-to-width-down/130?cb=20201118064922"
+  },
+  {
+    "name": "Diona: Meow!",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Item_Diona_Meow%21.png/revision/latest/scale-to-width-down/130?cb=20201208040742"
+  },
+  {
+    "name": "Dori: Jinni",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8e/Item_Dori_Jinni.png/revision/latest/scale-to-width-down/130?cb=20220831100543"
+  },
+  {
+    "name": "Emilie: Base Note",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Emilie_Base_Note.png/revision/latest/scale-to-width-down/130?cb=20240722025254"
+  },
+  {
+    "name": "Escoffier: Charm",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Item_Escoffier_Charm.png/revision/latest/scale-to-width-down/130?cb=20250507071740"
+  },
+  {
+    "name": "Eula: Ice-Sealed",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/00/Item_Eula_Ice-Sealed.png/revision/latest/scale-to-width-down/130?cb=20210428065945"
+  },
+  {
+    "name": "Faruzan: Sealed Secret",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d7/Item_Faruzan_Sealed_Secret.png/revision/latest/scale-to-width-down/130?cb=20221207033847"
+  },
+  {
+    "name": "Fischl: Night Raven",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Item_Fischl_Night_Raven.png/revision/latest/scale-to-width-down/130?cb=20201118065803"
+  },
+  {
+    "name": "Freminet: Progress",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/87/Item_Freminet_Progress.png/revision/latest/scale-to-width-down/130?cb=20230816190341"
+  },
+  {
+    "name": "Furina: Banquet",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/80/Item_Furina_Banquet.png/revision/latest/scale-to-width-down/130?cb=20231108032121"
+  },
+  {
+    "name": "Gaming: Man Chai",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1d/Item_Gaming_Man_Chai.png/revision/latest/scale-to-width-down/130?cb=20240131015920"
+  },
+  {
+    "name": "Ganyu: Qilin",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7c/Item_Ganyu_Qilin.png/revision/latest/scale-to-width-down/130?cb=20201223232308"
+  },
+  {
+    "name": "Gorou: Leisurely Hound",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1d/Item_Gorou_Leisurely_Hound.png/revision/latest/scale-to-width-down/130?cb=20211126224550"
+  },
+  {
+    "name": "Hu Tao: Spirit Soother",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/ec/Item_Hu_Tao_Spirit_Soother.png/revision/latest/scale-to-width-down/130?cb=20210208142355"
+  },
+  {
+    "name": "Iansan: Unyielding",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Item_Iansan_Unyielding.png/revision/latest/scale-to-width-down/130?cb=20250326020132"
+  },
+  {
+    "name": "Ifa: Bro",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1a/Item_Ifa_Bro.png/revision/latest/scale-to-width-down/130?cb=20250507070510"
+  },
+  {
+    "name": "Itto: Oni Face",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Item_Itto_Oni_Face.png/revision/latest/scale-to-width-down/130?cb=20211126224917"
+  },
+  {
+    "name": "Jean: The Winds' Course",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b0/Item_Jean_The_Winds%27_Course.png/revision/latest/scale-to-width-down/130?cb=20201118065510"
+  },
+  {
+    "name": "Kachina: Twirly",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/58/Item_Kachina_Twirly.png/revision/latest/scale-to-width-down/130?cb=20240828061732"
+  },
+  {
+    "name": "Kaedehara Kazuha: Autumn Maple-Viewing",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Item_Kaedehara_Kazuha_Autumn_Maple-Viewing.png/revision/latest/scale-to-width-down/130?cb=20210610195727"
+  },
+  {
+    "name": "Kaeya: Pavo Ocellus",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f6/Item_Kaeya_Pavo_Ocellus.png/revision/latest/scale-to-width-down/130?cb=20201118065620"
+  },
+  {
+    "name": "Kamisato Ayaka: Folding Fan",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Item_Kamisato_Ayaka_Folding_Fan.png/revision/latest/scale-to-width-down/130?cb=20210725071314"
+  },
+  {
+    "name": "Kamisato Ayato: Ripple",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c7/Item_Kamisato_Ayato_Ripple.png/revision/latest/scale-to-width-down/130?cb=20220330025022"
+  },
+  {
+    "name": "Kaveh: Domed Court",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8f/Item_Kaveh_Domed_Court.png/revision/latest/scale-to-width-down/130?cb=20230412092526"
+  },
+  {
+    "name": "Keqing: Lightning Stiletto",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Item_Keqing_Lightning_Stiletto.png/revision/latest/scale-to-width-down/130?cb=20201118070142"
+  },
+  {
+    "name": "Kinich: Ajaw",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/94/Item_Kinich_Ajaw.png/revision/latest/scale-to-width-down/130?cb=20240917101327"
+  },
+  {
+    "name": "Kirara: Neko Box",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Item_Kirara_Neko_Box.png/revision/latest/scale-to-width-down/130?cb=20230524071012"
+  },
+  {
+    "name": "Klee: Explosive",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/58/Item_Klee_Explosive.png/revision/latest/scale-to-width-down/130?cb=20201118063513"
+  },
+  {
+    "name": "Kujou Sara: Tengu",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Item_Kujou_Sara_Tengu.png/revision/latest/scale-to-width-down/130?cb=20210901111434"
+  },
+  {
+    "name": "Kuki Shinobu: Net",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e2/Item_Kuki_Shinobu_Net.png/revision/latest/scale-to-width-down/130?cb=20220602041041"
+  },
+  {
+    "name": "Lan Yan: Silver Swallow",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/af/Item_Lan_Yan_Silver_Swallow.png/revision/latest/scale-to-width-down/130?cb=20250102195404"
+  },
+  {
+    "name": "Layla: Daydream",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f5/Item_Layla_Daydream.png/revision/latest/scale-to-width-down/130?cb=20221102041217"
+  },
+  {
+    "name": "Lisa: Tempus Fugit",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/29/Item_Lisa_Tempus_Fugit.png/revision/latest/scale-to-width-down/130?cb=20201118065654"
+  },
+  {
+    "name": "Lynette: Earnestness",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/53/Item_Lynette_Earnestness.png/revision/latest/scale-to-width-down/130?cb=20230816185018"
+  },
+  {
+    "name": "Lyney: Pretense",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1d/Item_Lyney_Pretense.png/revision/latest/scale-to-width-down/130?cb=20230816184147"
+  },
+  {
+    "name": "Mavuika: Sun-Crowned",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/16/Item_Mavuika_Sun-Crowned.png/revision/latest/scale-to-width-down/130?cb=20250101130443"
+  },
+  {
+    "name": "Mika: Index",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mika_Index.png/revision/latest/scale-to-width-down/130?cb=20230301050413"
+  },
+  {
+    "name": "Mona: Starry Sky",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mona_Starry_Sky.png/revision/latest/scale-to-width-down/130?cb=20201118065913"
+  },
+  {
+    "name": "Mualani: Sharky",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4d/Item_Mualani_Sharky.png/revision/latest/scale-to-width-down/130?cb=20240828061229"
+  },
+  {
+    "name": "Nahida: Crescent",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f3/Item_Nahida_Crescent.png/revision/latest/scale-to-width-down/130?cb=20221102040649"
+  },
+  {
+    "name": "Navia: Rosula",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Item_Navia_Rosula.png/revision/latest/scale-to-width-down/130?cb=20231220020152"
+  },
+  {
+    "name": "Neuvillette: Surge",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c4/Item_Neuvillette_Surge.png/revision/latest/scale-to-width-down/130?cb=20230927112829"
+  },
+  {
+    "name": "Nilou: Lotus Dance",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6d/Item_Nilou_Lotus_Dance.png/revision/latest/scale-to-width-down/130?cb=20220928093927"
+  },
+  {
+    "name": "Ningguang: Phoenix",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b6/Item_Ningguang_Phoenix.png/revision/latest/scale-to-width-down/130?cb=20201118070809"
+  },
+  {
+    "name": "Noelle: Protector",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/90/Item_Noelle_Protector.png/revision/latest/scale-to-width-down/130?cb=20201118065834"
+  },
+  {
+    "name": "Ororon: Nightshade",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Item_Ororon_Nightshade.png/revision/latest/scale-to-width-down/130?cb=20241120092039"
+  },
+  {
+    "name": "Qiqi: Cold Storage",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/53/Item_Qiqi_Cold_Storage.png/revision/latest/scale-to-width-down/130?cb=20201118070120"
+  },
+  {
+    "name": "Raiden Shogun: Enlightenment",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e3/Item_Raiden_Shogun_Enlightenment.png/revision/latest/scale-to-width-down/130?cb=20210901111436"
+  },
+  {
+    "name": "Razor: Wolvensprint",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Item_Razor_Wolvensprint.png/revision/latest/scale-to-width-down/130?cb=20201118065217"
+  },
+  {
+    "name": "Rosaria: Indenture",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/75/Item_Rosaria_Indenture.png/revision/latest/scale-to-width-down/130?cb=20210317155152"
+  },
+  {
+    "name": "Sangonomiya Kokomi: The Deep",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/62/Item_Sangonomiya_Kokomi_The_Deep.png/revision/latest/scale-to-width-down/130?cb=20210901111438"
+  },
+  {
+    "name": "Sayu: Muji-Muji Daruma",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/63/Item_Sayu_Muji-Muji_Daruma.png/revision/latest/scale-to-width-down/130?cb=20210725071316"
+  },
+  {
+    "name": "Sethos: Ba Fragment",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/2e/Item_Sethos_Ba_Fragment.png/revision/latest/scale-to-width-down/130?cb=20240605022351"
+  },
+  {
+    "name": "Shenhe: Comb",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7c/Item_Shenhe_Comb.png/revision/latest/scale-to-width-down/130?cb=20220105061635"
+  },
+  {
+    "name": "Shikanoin Heizou: Temari",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cf/Item_Shikanoin_Heizou_Temari.png/revision/latest/scale-to-width-down/130?cb=20220713054103"
+  },
+  {
+    "name": "Sigewinne: Treatment",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/fc/Item_Sigewinne_Treatment.png/revision/latest/scale-to-width-down/130?cb=20240605020712"
+  },
+  {
+    "name": "Skirk: Lone Shadow",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/2e/Item_Skirk_Lone_Shadow.png/revision/latest/scale-to-width-down/130?cb=20250618025343"
+  },
+  {
+    "name": "Sucrose: Bio-Alchemy",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Item_Sucrose_Bio-Alchemy.png/revision/latest/scale-to-width-down/130?cb=20201118065725"
+  },
+  {
+    "name": "Thoma: Blazing Guard",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Item_Thoma_Blazing_Guard.png/revision/latest/scale-to-width-down/130?cb=20211013105003"
+  },
+  {
+    "name": "Tighnari: Dew-Kissed",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/5a/Item_Tighnari_Dew-Kissed.png/revision/latest/scale-to-width-down/130?cb=20220824154433"
+  },
+  {
+    "name": "Varesa: Powerhouse",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Item_Varesa_Powerhouse.png/revision/latest/scale-to-width-down/130?cb=20250326015725"
+  },
+  {
+    "name": "Venti: Azure Sky",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Item_Venti_Azure_Sky.png/revision/latest/scale-to-width-down/130?cb=20201118065425"
+  },
+  {
+    "name": "Wanderer: Drifter's Ballad",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/94/Item_Wanderer_Drifter%27s_Ballad.png/revision/latest/scale-to-width-down/130?cb=20221207033640"
+  },
+  {
+    "name": "Wriothesley: Detention",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Wriothesley_Detention.png/revision/latest/scale-to-width-down/130?cb=20230927113845"
+  },
+  {
+    "name": "Xiangling: Fresh from the Pan",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Item_Xiangling_Fresh_from_the_Pan.png/revision/latest/scale-to-width-down/130?cb=20201118070019"
+  },
+  {
+    "name": "Xianyun: White Clouds",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Item_Xianyun_White_Clouds.png/revision/latest/scale-to-width-down/130?cb=20240131015924"
+  },
+  {
+    "name": "Xiao: Mask",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7e/Item_Xiao_Mask.png/revision/latest/scale-to-width-down/130?cb=20210208142400"
+  },
+  {
+    "name": "Xilonen: Cue Point",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d2/Item_Xilonen_Cue_Point.png/revision/latest/scale-to-width-down/130?cb=20241009115120"
+  },
+  {
+    "name": "Xingqiu: Rainbow",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Item_Xingqiu_Rainbow.png/revision/latest/scale-to-width-down/130?cb=20201118070050"
+  },
+  {
+    "name": "Xinyan: Song's End",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Item_Xinyan_Song%27s_End.png/revision/latest/scale-to-width-down/130?cb=20201208040743"
+  },
+  {
+    "name": "Yae Miko: Kitsune Dreaming",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6e/Item_Yae_Miko_Kitsune_Dreaming.png/revision/latest/scale-to-width-down/130?cb=20220216094303"
+  },
+  {
+    "name": "Yanfei: Impartial",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b5/Item_Yanfei_Impartial.png/revision/latest/scale-to-width-down/130?cb=20210428065706"
+  },
+  {
+    "name": "Yaoyao: Yuegui",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/61/Item_Yaoyao_Yuegui.png/revision/latest/scale-to-width-down/130?cb=20230118034748"
+  },
+  {
+    "name": "Yelan: Throw",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/70/Item_Yelan_Throw.png/revision/latest/scale-to-width-down/130?cb=20220531064743"
+  },
+  {
+    "name": "Yoimiya: Auratus Spark",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1a/Item_Yoimiya_Auratus_Spark.png/revision/latest/scale-to-width-down/130?cb=20210725071318"
+  },
+  {
+    "name": "Yumemizuki Mizuki: Nightmare Devourer",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/87/Item_Yumemizuki_Mizuki_Nightmare_Devourer.png/revision/latest/scale-to-width-down/130?cb=20250212075434"
+  },
+  {
+    "name": "Yun Jin: Rhyme",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Item_Yun_Jin_Rhyme.png/revision/latest/scale-to-width-down/130?cb=20220105061638"
+  },
+  {
+    "name": "Zhongli: Planet Befall",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Zhongli_Planet_Befall.png/revision/latest/scale-to-width-down/130?cb=20201208040743"
+  },
+  {
+    "name": "Celebration: Hypostasis",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Item_Celebration_Hypostasis.png/revision/latest/scale-to-width-down/130?cb=20210115025000"
+  },
+  {
+    "name": "Celebration: Lantern-Light",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/09/Item_Celebration_Lantern-Light.png/revision/latest/scale-to-width-down/130?cb=20210312184535"
+  },
+  {
+    "name": "Celebration: Mechanicus",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/73/Item_Celebration_Mechanicus.png/revision/latest/scale-to-width-down/130?cb=20210313102316"
+  },
+  {
+    "name": "Celebration: Feast",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/86/Item_Celebration_Feast.png/revision/latest/scale-to-width-down/130?cb=20220124005924"
+  },
+  {
+    "name": "Celebration: Shining Scale",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cd/Item_Celebration_Shining_Scale.png/revision/latest/scale-to-width-down/130?cb=20220124005926"
+  },
+  {
+    "name": "Celebration: Fruit of Wisdom",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/64/Item_Celebration_Fruit_of_Wisdom.png/revision/latest/scale-to-width-down/130?cb=20210430133757"
+  },
+  {
+    "name": "Celebration: Peekaboo!",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Item_Celebration_Peekaboo%21.png/revision/latest/scale-to-width-down/130?cb=20210514051651"
+  },
+  {
+    "name": "Celebration: Vastness",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a9/Item_Celebration_Vastness.png/revision/latest/scale-to-width-down/130?cb=20210702075851"
+  },
+  {
+    "name": "Celebration: Kaboomball",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/03/Item_Celebration_Kaboomball.png/revision/latest/scale-to-width-down/130?cb=20210702075842"
+  },
+  {
+    "name": "Celebration: Battlesong",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d7/Item_Celebration_Battlesong.png/revision/latest/scale-to-width-down/130?cb=20210625041959"
+  },
+  {
+    "name": "Celebration: Wondrous Calculation",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/ec/Item_Celebration_Wondrous_Calculation.png/revision/latest/scale-to-width-down/130?cb=20210812041045"
+  },
+  {
+    "name": "Celebration: Ikki",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Item_Celebration_Ikki.png/revision/latest/scale-to-width-down/130?cb=20210902054642"
+  },
+  {
+    "name": "Celebration: Binge Vessel",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/2e/Item_Celebration_Binge_Vessel.png/revision/latest/scale-to-width-down/130?cb=20220330042704"
+  },
+  {
+    "name": "Celebration: Lenticular Clouds",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Item_Celebration_Lenticular_Clouds.png/revision/latest/scale-to-width-down/130?cb=20230227101930"
+  },
+  {
+    "name": "Celebration: Euphonia",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/08/Item_Celebration_Euphonia.png/revision/latest/scale-to-width-down/130?cb=20231004113454"
+  },
+  {
+    "name": "Album: The Stellar Moments",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Item_Album_The_Stellar_Moments.png/revision/latest/scale-to-width-down/130?cb=20240131015927"
+  },
+  {
+    "name": "Celebration: Feast (II)",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c1/Item_Celebration_Feast_%28II%29.png/revision/latest/scale-to-width-down/130?cb=20240803104754"
+  },
+  {
+    "name": "Celebration: Crispy and Sweet",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/10/Item_Celebration_Crispy_and_Sweet.png/revision/latest/scale-to-width-down/130?cb=20240917165810"
+  },
+  {
+    "name": "Celebration: Scorch",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/5f/Item_Celebration_Scorch.png/revision/latest/scale-to-width-down/130?cb=20250224085052"
+  },
+  {
+    "name": "Celebration: Lavish Gala",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/5e/Item_Celebration_Lavish_Gala.png/revision/latest/scale-to-width-down/130?cb=20250620154917"
+  }
+]
