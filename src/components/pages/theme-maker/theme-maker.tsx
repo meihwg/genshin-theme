@@ -114,6 +114,63 @@ const ThemeMaker: React.FC = () => {
         }
     };
 
+    const handleDropInMyNamecards = (e: React.DragEvent) => {
+        e.preventDefault();
+        const namecardId = e.dataTransfer.getData('text/plain');
+        
+        // Si la namecard était dans la prévisualisation, la retirer
+        const updatedTheme = { ...themePreview };
+        Object.keys(updatedTheme).forEach(key => {
+            if (updatedTheme[key] === namecardId) {
+                updatedTheme[key] = null;
+            }
+        });
+        setThemePreview(updatedTheme);
+        localStorage.setItem('themePreview', JSON.stringify(updatedTheme));
+        
+        // Ajouter à mes namecards si pas déjà présente
+        if (!myNamecards.includes(namecardId)) {
+            const updatedMyNamecards = [...myNamecards, namecardId];
+            setMyNamecards(updatedMyNamecards);
+            localStorage.setItem('myNamecards', JSON.stringify(updatedMyNamecards));
+        }
+    };
+
+    const handleDragOverMyNamecards = (e: React.DragEvent) => {
+        e.preventDefault();
+    };
+
+    const handleDropInMyNamecardsReorder = (e: React.DragEvent, targetIndex: number) => {
+        e.preventDefault();
+        const draggedId = e.dataTransfer.getData('text/plain');
+        
+        // Si c'est une namecard de la prévisualisation, la retirer d'abord
+        const updatedTheme = { ...themePreview };
+        Object.keys(updatedTheme).forEach(key => {
+            if (updatedTheme[key] === draggedId) {
+                updatedTheme[key] = null;
+            }
+        });
+        setThemePreview(updatedTheme);
+        localStorage.setItem('themePreview', JSON.stringify(updatedTheme));
+        
+        // Réorganiser mes namecards
+        const currentIndex = myNamecards.indexOf(draggedId);
+        if (currentIndex !== -1) {
+            const updatedMyNamecards = [...myNamecards];
+            updatedMyNamecards.splice(currentIndex, 1);
+            updatedMyNamecards.splice(targetIndex, 0, draggedId);
+            setMyNamecards(updatedMyNamecards);
+            localStorage.setItem('myNamecards', JSON.stringify(updatedMyNamecards));
+        } else {
+            // Si la namecard n'était pas dans mes namecards, l'ajouter à la position cible
+            const updatedMyNamecards = [...myNamecards];
+            updatedMyNamecards.splice(targetIndex, 0, draggedId);
+            setMyNamecards(updatedMyNamecards);
+            localStorage.setItem('myNamecards', JSON.stringify(updatedMyNamecards));
+        }
+    };
+
     // Filtrer les namecards pour exclure celles qui sont dans mes namecards ou dans la prévisualisation
     const previewNamecardIds = Object.values(themePreview).filter(id => id !== null) as string[];
     const availableNamecards = Object.entries(namecards).filter(([id]) => 
@@ -135,7 +192,7 @@ const ThemeMaker: React.FC = () => {
                 onDragOver={handleDragOver}
                 onClick={() => handleCellClick(cellKey)}
                 className="namecard-item-td"
-                title={namecard ? "Click to remove" : "Drop a namecard here"}
+                title={namecard ? "Click to remove or drag and drop somewhere else" : "Drop a namecard here"}
             >
                 {namecard && namecardId && (
                     <img
@@ -184,8 +241,12 @@ const ThemeMaker: React.FC = () => {
                 </table>
             </div>
             <h2>My Namecards</h2>
-            <div className="my-namecards-container">
-                {myNamecardsFiltered.map((id) => {
+            <div 
+                className="my-namecards-container"
+                onDrop={handleDropInMyNamecards}
+                onDragOver={handleDragOverMyNamecards}
+            >
+                {myNamecardsFiltered.map((id, index) => {
                     const namecard = namecards[id];
                     if (!namecard) return null;
                     
@@ -196,13 +257,15 @@ const ThemeMaker: React.FC = () => {
                             onClick={() => removeFromMyNamecards(id)}
                             draggable
                             onDragStart={(e) => handleDragStart(e, id)}
+                            onDrop={(e) => handleDropInMyNamecardsReorder(e, index)}
+                            onDragOver={handleDragOverMyNamecards}
                         >
                             <img
                                 src={`https://enka.network/ui/${namecard.icon}.png`}
                                 alt={namecard.icon}
                                 loading="lazy"
                                 className="namecard-item-image"
-                                title="Click to remove from my namecards, drag and drop to add to theme preview"
+                                title="Click to remove from my namecards, drag and drop to order or add to theme preview"
                             />
                         </div>
                     );

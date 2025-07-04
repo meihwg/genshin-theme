@@ -5,10 +5,13 @@ const Footer: React.FC = () => {
     return (
         <footer>
             <p>
-               Developed by <a href="https://github.com/meihwg">Mei</a>
+               Developed by <a href="https://github.com/meihwg" target="_blank">Mei</a>
             </p>
             <p>
-                Using <a href="https://api.enka.network/#/">Enka.Network API</a>
+                Check out the <a href="https://github.com/meihwg/genshin-theme" target="_blank">GitHub repository</a>
+            </p>
+            <p>
+                This website uses the <a href="https://api.enka.network/#/" target="_blank">Enka.Network API</a>
             </p>
         </footer>
     );
