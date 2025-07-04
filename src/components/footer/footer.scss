@@ -1,0 +1,17 @@
+footer {
+    background-color: var(--color-primary);
+    padding: 2rem 0;
+    text-align: center;
+    margin-top: 60px;
+
+    p {
+        font-size: 1rem;
+        font-weight: 200;
+        letter-spacing: 2px;
+        color: var(--white);
+    }
+
+    a:hover {
+        color: var(--color-tertiary);
+    }
+}

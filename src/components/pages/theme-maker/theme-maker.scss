@@ -1,0 +1,19 @@
+section.theme-maker {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    flex: 1;
+    padding: 2rem;
+    background-color: var(--color-tertiary);
+    margin: 2rem 10%;
+    border-radius: 1rem;
+
+    .theme-maker-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+}

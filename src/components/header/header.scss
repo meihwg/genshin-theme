@@ -1,0 +1,22 @@
+header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: var(--color-tertiary);
+    padding: 0.5rem;
+    color: var(--color-primary);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    margin-bottom: 60px;
+
+    .header-title {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        gap: 1rem;
+        margin-left: 1rem;
+    }
+}
