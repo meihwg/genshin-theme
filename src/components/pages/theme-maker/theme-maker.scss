@@ -10,10 +10,44 @@ section.theme-maker {
     margin: 2rem 10%;
     border-radius: 1rem;
 
+    h2 {
+        margin-bottom: 1rem;
+        margin-top: 2rem;
+    }
+
     .theme-maker-container {
         display: flex;
         flex-direction: column;
         align-items: center;
         justify-content: center;
+
+        .theme-maker-preview-container {
+
+            td {
+                width: 202px;
+                height: 102px;
+                border: 1px solid var(--color-primary);
+            }
+            
+        }
+
+        .all-theme-container,
+        .my-namecards-container {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            justify-content: center;
+
+        }
+        
+        .namecard-item-image {
+            width: 200px;
+            height: 100px;
+            overflow: hidden;
+            object-fit: cover;
+            cursor: pointer;
+            display: flex;
+        }
     }
 }

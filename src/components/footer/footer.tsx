@@ -5,7 +5,7 @@ const Footer: React.FC = () => {
     return (
         <footer>
             <p>
-               Developed by <a href="https://github.com/meihwg">meihwg</a>
+               Developed by <a href="https://github.com/meihwg">Mei</a>
             </p>
             <p>
                 Using <a href="https://api.enka.network/#/">Enka.Network API</a>
